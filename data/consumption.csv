@@ -1,0 +1,4 @@
+timestamp,meter_id,kwh,voltage,current,temperature
+2024-01-01 00:00:00,MTR001,0.45,230.0,1.95,30.2
+2024-01-01 00:15:00,MTR001,0.50,231.2,2.05,30.1
+...
